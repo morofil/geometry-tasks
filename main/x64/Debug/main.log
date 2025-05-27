@@ -1,0 +1,7 @@
+﻿  compare.cpp
+  file_reader.cpp
+  main.cpp
+D:\Новая папка\main\main\main.cpp(77,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  sort.cpp
+  Создание кода...
+  main.vcxproj -> D:\Новая папка\main\x64\Debug\main.exe
